@@ -1,2 +1,2 @@
-#Fun Choose the color game
+# Fun Choose the color game
 written in react & javascript
